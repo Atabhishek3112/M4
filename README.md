@@ -212,7 +212,7 @@ Step 7: After the loop, check the value of flag:
 Step 8: End the program.
 
 ## PROGRAM
-```c
+```
 #include <stdio.h>
 
 int main() {
